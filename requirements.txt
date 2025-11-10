@@ -1,0 +1,7 @@
+langgraph
+langchain
+streamlit
+langgraph-checkpoint-sqlite
+# sqlite3
+# uuid
+# python-dotenv
